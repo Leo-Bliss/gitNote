@@ -12,9 +12,9 @@ Learn Git Note
 # 0x01 创建repository
 
 **最好在一个空文件夹下创建仓库**
+（Git Bash Here）
 + 创建一个空文件夹： `mkdir gitNote`
-<hr>
-+ 初始化仓库:Git Bash Here，`git init`
++ 初始化仓库：`git init`
 
 (此时gitNote文件夹下会有一个隐藏的`.git`文件夹)
 
