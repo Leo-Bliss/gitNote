@@ -15,7 +15,8 @@ Learn Git Note
 + 创建一个空文件夹： `mkdir gitNote`
 + 初始化仓库:Git Bash Here，`git init`
 (此时gitNote文件夹下会有一个隐藏的`.git`文件夹)
-<img src="./images/init_res.png">
+
+<img src="./images/init_res.png"  width="200" height="200">
 ------
 # 0x02 创建readme.txt
 ```shell
