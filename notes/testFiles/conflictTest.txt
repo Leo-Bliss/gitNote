@@ -1,2 +1,3 @@
 Today is Friday and simple.
 
+Test git merge --abort & 1
