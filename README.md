@@ -20,10 +20,12 @@ Learn Git Note
 
 <img src="./images/init_res.png">
 ------
+
 # 0x02 创建readme.txt
 ```shell
 touch readme.txt
 ```
+
 因为我想用写**markdown**来编写，所以**修改readme.txt为readme.md**
 `git mv readme.txt readme.md`
 报错：
@@ -39,6 +41,7 @@ git mv readme.txt readme.md
 mkdir images
 ```
 ------
+
 # 0x03 查看工作区状态
 ```shell
 git status
