@@ -1,1 +1,2 @@
-Today is Thursday & example.
+Today is Thursday && example.
+
